@@ -1,4 +1,4 @@
-# Elasticquent
+# Elasticquent - xnohat version
 
 _Elasticsearch for Eloquent Laravel Models_
 
