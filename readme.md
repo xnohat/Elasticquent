@@ -3,7 +3,7 @@
 XNOHAT CHANGELOG
 --------------------
 
-Get feature Highlight to Result from unmerge pull request 
+Add feature Highlight to Result from unmerge pull request 
 https://github.com/elasticquent/Elasticquent/pull/104
 
 git cherry-pick 2db23a5 1d5e60f f33c23c c878621 c13c167 524b023
