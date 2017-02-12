@@ -1,5 +1,15 @@
 # Elasticquent - xnohat version
 
+XNOHAT CHANGELOG
+--------------------
+
+Get feature Highlight to Result from unmerge pull request 
+https://github.com/elasticquent/Elasticquent/pull/104
+
+git cherry-pick 2db23a5 1d5e60f f33c23c c878621 c13c167 524b023
+
+--------------------
+
 _Elasticsearch for Eloquent Laravel Models_
 
 Elasticquent makes working with [Elasticsearch](http://www.elasticsearch.org/) and [Eloquent](http://laravel.com/docs/eloquent) models easier by mapping them to Elasticsearch types. You can use the default settings or define how Elasticsearch should index and search your Eloquent models right in the model.
