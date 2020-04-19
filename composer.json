@@ -1,7 +1,7 @@
 {
   "name": "xnohat/elasticquent",
   "type": "library",
-  "description": "Maps Laravel Eloquent models to Elasticsearch types.",
+  "description": "Maps Laravel Eloquent models to Elasticsearch types for Laravel 6",
   "keywords": [
     "elasticsearch",
     "eloquent",
@@ -18,8 +18,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/database": "~4.2|^5",
-    "illuminate/config": "~4.2|^5",
+    "illuminate/database": "^6",
+    "illuminate/config": "^6",
     "nesbot/carbon": "^2.0.0",
     "elasticsearch/elasticsearch": ">1.0 <2.2"
   },
